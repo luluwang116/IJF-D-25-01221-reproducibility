@@ -1,11 +1,7 @@
-# NQGARCH-reproducibility
-Reproducibility package for the paper "Modeling Asymmetric Risk Contagion between Chinese and Global Commodity Markets: A Network Quantile GARCH Approach"
-
-Xiaohang Ren, Yue He, Jianxin Pan and Lulu Wang
 
 Overview & contents
 
-The code in this replication material generates the 21 figures and 7 tables for the paper "Modeling Asymmetric Risk Contagion between Chinese and Global Commodity Markets: A Network Quantile GARCH Approach". Each figure and table is generated separately by its corresponding script file Figure[xx]*.R or Table[xx]*.R, respectively.
+The code in this replication material generates the 21 figures and 7 tables for the paper IJF-D-25-01221. Each figure and table is generated separately by its corresponding script file Figure[xx]*.R or Table[xx]*.R, respectively.
 The main contents are the following:
 data: folder of processed data files
 Figure[xx]*.R: R scripts to creat the respective figures
